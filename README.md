@@ -1,2 +1,2 @@
-# Pemrograman Aplikasi Mobile Berbasis Database
-Sertfikasi BNSP DIPA 2022
+# Sertifikasi BNSP DIPA 2022
+Pemrograman Aplikasi Mobile Berbasis Database
