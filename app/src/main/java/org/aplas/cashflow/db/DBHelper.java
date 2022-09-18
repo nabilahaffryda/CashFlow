@@ -19,7 +19,7 @@ import java.util.List;
 public class DBHelper extends SQLiteOpenHelper {
     //create db
     public DBHelper(Context context) {
-        super(context, "mycashbook.db", null, 1);
+        super(context, "cashflow.db", null, 1);
     }
 
     @Override
